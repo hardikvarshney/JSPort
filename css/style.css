@@ -1,0 +1,25 @@
+.navbar-brand
+{
+    font-weight:bold;
+    font-family:'cooper black';
+    font-size:32px;
+}
+.navbar-nav
+{
+    font-weight:bold;
+    font-size:18px;
+    font-family:'calibri';
+}
+.form-label
+{   
+    font-weight:bold;
+    font-size:18px;
+}
+
+#hello:hover
+{
+    background-color: grey;
+    color:white;
+}
+
+  
